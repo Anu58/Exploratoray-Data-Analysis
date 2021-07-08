@@ -1,3 +1,4 @@
 # Sparks-Foundation-Task-3
-Predict the percentage of an student based on the no. of study hours.
-This is a simple linear regression task as it involves just 2 variables.
+Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’As a business manager, try to find out the weak areas where you can
+work to make more profit.What all business problems you can derive by exploring the data?
+
